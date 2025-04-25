@@ -1,1 +1,24 @@
+Questions For the project:
 
+
+1) Total Seats
+2) Calculate seats according to states
+3) Total seats won by NDA alliance
+4) Seats Won by NDA Allianz Parties
+5) Total Seats Won by I.N.D.I.A. Allianz
+6) Seats Won by I.N.D.I.A. Allianz Parties
+7) Add new column field in table partywise_results to get the Party Allianz as 
+   NDA, I.N.D.I.A and OTHER
+-- NDA Alliance
+-- I.N.D.I.A alliance
+-- Others
+8) Which party alliance (NDA, I.N.D.I.A, or OTHER) won the most seats across all states?
+9) What is the distribution of EVM votes versus postal votes for candidates in a specific 
+   constituency?
+10) Which parties won the most seats in specific state, and how many seats did each party 
+    win?
+11) Winning candidate's name, their party name, total votes, and the margin of victory for 
+    a specific state and constituency?
+12) What is the total number of seats won by each party alliance (NDA, I.N.D.I.A, and OTHER)
+    in each state for the India Elections 2024?
+13) Which candidate received the highest number of EVM votes in each constituency (Top 10)?
